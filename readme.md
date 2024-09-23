@@ -56,3 +56,5 @@
 
 <img width="5100" alt="diagram" src="https://github.com/user-attachments/assets/2d71ccb7-1812-48ec-ab7a-96a86cec3372">
 
+## limitation & Future work
+- 자판기 내부 현금 종류 별 개수를 제한하지 않았음.
