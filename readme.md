@@ -1,5 +1,12 @@
 # Vending Machine
 
+How to run:
+- Go to the root of the project:
+- Run `clj -M:run-machine`
+
+---
+
+
 이 문제는 자판기에서 사용자가 원하는 음료수를 얻기까지의 메커니즘을 구현해야한다. 자판기 내부에서의 동작과 더불어, 경우의 수와 예외 케이스를 최대한 표현해야한다. 아웃풋은 로그 출력으로 진행한다.
 
 주어진 전제 조건은 다음과 같다:
